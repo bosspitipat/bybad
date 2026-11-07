@@ -1,0 +1,733 @@
+[
+  {
+    "brand": "YONEX",
+    "name": "65 Z4 MEN",
+    "url": "https://www.yonex.co.jp/assets/pdf/catalog/badminton/2026_badminton_catalog.pdf",
+    "sizes": [
+      {
+        "cm": 22.0,
+        "label": "22.0 CM"
+      },
+      {
+        "cm": 22.5,
+        "label": "22.5 CM"
+      },
+      {
+        "cm": 23.0,
+        "label": "23.0 CM"
+      },
+      {
+        "cm": 23.5,
+        "label": "23.5 CM"
+      },
+      {
+        "cm": 24.0,
+        "label": "24.0 CM"
+      },
+      {
+        "cm": 24.5,
+        "label": "24.5 CM"
+      },
+      {
+        "cm": 25.0,
+        "label": "25.0 CM"
+      },
+      {
+        "cm": 25.5,
+        "label": "25.5 CM"
+      },
+      {
+        "cm": 26.0,
+        "label": "26.0 CM"
+      },
+      {
+        "cm": 26.5,
+        "label": "26.5 CM"
+      },
+      {
+        "cm": 27.0,
+        "label": "27.0 CM"
+      },
+      {
+        "cm": 27.5,
+        "label": "27.5 CM"
+      },
+      {
+        "cm": 28.0,
+        "label": "28.0 CM"
+      },
+      {
+        "cm": 28.5,
+        "label": "28.5 CM"
+      },
+      {
+        "cm": 29.0,
+        "label": "29.0 CM"
+      }
+    ],
+    "note": "รุ่นผู้ชาย · ช่วงไซส์ตามแคตตาล็อกญี่ปุ่น 2026",
+    "chart": null
+  },
+  {
+    "brand": "YONEX",
+    "name": "SUBAXIA GT MEN",
+    "url": "https://www.yonex.com/badminton/shbsg1m",
+    "sizes": [
+      {
+        "cm": 22.0,
+        "label": "22.0 CM"
+      },
+      {
+        "cm": 22.5,
+        "label": "22.5 CM"
+      },
+      {
+        "cm": 23.0,
+        "label": "23.0 CM"
+      },
+      {
+        "cm": 23.5,
+        "label": "23.5 CM"
+      },
+      {
+        "cm": 24.0,
+        "label": "24.0 CM"
+      },
+      {
+        "cm": 24.5,
+        "label": "24.5 CM"
+      },
+      {
+        "cm": 25.0,
+        "label": "25.0 CM"
+      },
+      {
+        "cm": 25.5,
+        "label": "25.5 CM"
+      },
+      {
+        "cm": 26.0,
+        "label": "26.0 CM"
+      },
+      {
+        "cm": 26.5,
+        "label": "26.5 CM"
+      },
+      {
+        "cm": 27.0,
+        "label": "27.0 CM"
+      },
+      {
+        "cm": 27.5,
+        "label": "27.5 CM"
+      },
+      {
+        "cm": 28.0,
+        "label": "28.0 CM"
+      },
+      {
+        "cm": 28.5,
+        "label": "28.5 CM"
+      },
+      {
+        "cm": 29.0,
+        "label": "29.0 CM"
+      },
+      {
+        "cm": 29.5,
+        "label": "29.5 CM"
+      },
+      {
+        "cm": 30.0,
+        "label": "30.0 CM"
+      },
+      {
+        "cm": 31,
+        "label": "31.0 CM"
+      },
+      {
+        "cm": 32,
+        "label": "32.0 CM"
+      }
+    ],
+    "note": "รุ่นผู้ชาย · ข้อมูล YONEX Global · ควรลองยืนยันความกระชับ",
+    "chart": null
+  },
+  {
+    "brand": "YONEX",
+    "name": "AERUS Z MEN (SHBAZ2M)",
+    "url": "https://www.yonex.com/power-cushion-aerus-z-men-shbaz2m",
+    "sizes": [
+      {
+        "cm": 25.0,
+        "label": "25.0 CM"
+      },
+      {
+        "cm": 25.5,
+        "label": "25.5 CM"
+      },
+      {
+        "cm": 26.0,
+        "label": "26.0 CM"
+      },
+      {
+        "cm": 26.5,
+        "label": "26.5 CM"
+      },
+      {
+        "cm": 27.0,
+        "label": "27.0 CM"
+      },
+      {
+        "cm": 27.5,
+        "label": "27.5 CM"
+      },
+      {
+        "cm": 28.0,
+        "label": "28.0 CM"
+      },
+      {
+        "cm": 28.5,
+        "label": "28.5 CM"
+      },
+      {
+        "cm": 29.0,
+        "label": "29.0 CM"
+      },
+      {
+        "cm": 29.5,
+        "label": "29.5 CM"
+      },
+      {
+        "cm": 30.0,
+        "label": "30.0 CM"
+      },
+      {
+        "cm": 31,
+        "label": "31.0 CM"
+      }
+    ],
+    "note": "รุ่นผู้ชาย · ข้อมูล YONEX Global",
+    "chart": null
+  },
+  {
+    "brand": "YONEX",
+    "name": "65 Z ANNIV",
+    "url": "https://www.yonex.com/power-cushion-65-z-anniv",
+    "sizes": [
+      {
+        "cm": 22.0,
+        "label": "22.0 CM"
+      },
+      {
+        "cm": 22.5,
+        "label": "22.5 CM"
+      },
+      {
+        "cm": 23.0,
+        "label": "23.0 CM"
+      },
+      {
+        "cm": 23.5,
+        "label": "23.5 CM"
+      },
+      {
+        "cm": 24.0,
+        "label": "24.0 CM"
+      },
+      {
+        "cm": 24.5,
+        "label": "24.5 CM"
+      },
+      {
+        "cm": 25.0,
+        "label": "25.0 CM"
+      },
+      {
+        "cm": 25.5,
+        "label": "25.5 CM"
+      },
+      {
+        "cm": 26.0,
+        "label": "26.0 CM"
+      },
+      {
+        "cm": 26.5,
+        "label": "26.5 CM"
+      },
+      {
+        "cm": 27.0,
+        "label": "27.0 CM"
+      },
+      {
+        "cm": 27.5,
+        "label": "27.5 CM"
+      },
+      {
+        "cm": 28.0,
+        "label": "28.0 CM"
+      },
+      {
+        "cm": 28.5,
+        "label": "28.5 CM"
+      },
+      {
+        "cm": 29.0,
+        "label": "29.0 CM"
+      },
+      {
+        "cm": 29.5,
+        "label": "29.5 CM"
+      },
+      {
+        "cm": 30.0,
+        "label": "30.0 CM"
+      },
+      {
+        "cm": 31,
+        "label": "31.0 CM"
+      },
+      {
+        "cm": 32,
+        "label": "32.0 CM"
+      }
+    ],
+    "note": "รุ่นครบรอบ · ข้อมูล YONEX Global",
+    "chart": null
+  },
+  {
+    "brand": "YONEX",
+    "name": "65 Z SLIM",
+    "url": "https://www.yonex.com/power-cushion-65-z-slim-shb65z4n",
+    "sizes": [
+      {
+        "cm": 22.0,
+        "label": "22.0 CM"
+      },
+      {
+        "cm": 22.5,
+        "label": "22.5 CM"
+      },
+      {
+        "cm": 23.0,
+        "label": "23.0 CM"
+      },
+      {
+        "cm": 23.5,
+        "label": "23.5 CM"
+      },
+      {
+        "cm": 24.0,
+        "label": "24.0 CM"
+      },
+      {
+        "cm": 24.5,
+        "label": "24.5 CM"
+      },
+      {
+        "cm": 25.0,
+        "label": "25.0 CM"
+      },
+      {
+        "cm": 25.5,
+        "label": "25.5 CM"
+      },
+      {
+        "cm": 26.0,
+        "label": "26.0 CM"
+      },
+      {
+        "cm": 26.5,
+        "label": "26.5 CM"
+      },
+      {
+        "cm": 27.0,
+        "label": "27.0 CM"
+      },
+      {
+        "cm": 27.5,
+        "label": "27.5 CM"
+      },
+      {
+        "cm": 28.0,
+        "label": "28.0 CM"
+      },
+      {
+        "cm": 28.5,
+        "label": "28.5 CM"
+      },
+      {
+        "cm": 29.0,
+        "label": "29.0 CM"
+      },
+      {
+        "cm": 29.5,
+        "label": "29.5 CM"
+      },
+      {
+        "cm": 30.0,
+        "label": "30.0 CM"
+      },
+      {
+        "cm": 31,
+        "label": "31.0 CM"
+      },
+      {
+        "cm": 32,
+        "label": "32.0 CM"
+      }
+    ],
+    "note": "ทรง SLIM · ตรวจความกระชับด้านข้างก่อนซื้อ",
+    "chart": null
+  },
+  {
+    "brand": "YONEX",
+    "name": "65 Z WOMEN",
+    "url": "https://www.yonex.com/badminton/power-cushion-65-z-women-shb65z4l",
+    "sizes": [
+      {
+        "cm": 22.0,
+        "label": "22.0 CM"
+      },
+      {
+        "cm": 22.5,
+        "label": "22.5 CM"
+      },
+      {
+        "cm": 23.0,
+        "label": "23.0 CM"
+      },
+      {
+        "cm": 23.5,
+        "label": "23.5 CM"
+      },
+      {
+        "cm": 24.0,
+        "label": "24.0 CM"
+      },
+      {
+        "cm": 24.5,
+        "label": "24.5 CM"
+      },
+      {
+        "cm": 25.0,
+        "label": "25.0 CM"
+      },
+      {
+        "cm": 25.5,
+        "label": "25.5 CM"
+      },
+      {
+        "cm": 26.0,
+        "label": "26.0 CM"
+      },
+      {
+        "cm": 26.5,
+        "label": "26.5 CM"
+      },
+      {
+        "cm": 27.0,
+        "label": "27.0 CM"
+      }
+    ],
+    "note": "รุ่นผู้หญิง · ช่วงไซส์ตาม YONEX Global",
+    "chart": null
+  },
+  {
+    "brand": "VICTOR",
+    "name": "A970 NitroLite",
+    "url": "https://www.victorsports.my/product/victor-badminton-shoes-a970-nitrolite",
+    "sizes": [
+      {
+        "cm": 23.5,
+        "label": "23.5 CM"
+      },
+      {
+        "cm": 24.0,
+        "label": "24.0 CM"
+      },
+      {
+        "cm": 24.5,
+        "label": "24.5 CM"
+      },
+      {
+        "cm": 25.0,
+        "label": "25.0 CM"
+      },
+      {
+        "cm": 25.5,
+        "label": "25.5 CM"
+      },
+      {
+        "cm": 26.0,
+        "label": "26.0 CM"
+      },
+      {
+        "cm": 26.5,
+        "label": "26.5 CM"
+      },
+      {
+        "cm": 27.0,
+        "label": "27.0 CM"
+      },
+      {
+        "cm": 27.5,
+        "label": "27.5 CM"
+      },
+      {
+        "cm": 28.0,
+        "label": "28.0 CM"
+      },
+      {
+        "cm": 28.5,
+        "label": "28.5 CM"
+      },
+      {
+        "cm": 29.0,
+        "label": "29.0 CM"
+      },
+      {
+        "cm": 29.5,
+        "label": "29.5 CM"
+      },
+      {
+        "cm": 30.0,
+        "label": "30.0 CM"
+      }
+    ],
+    "note": "ใช้ตัวเลือกไซส์ CM จาก VICTOR Malaysia",
+    "chart": null
+  },
+  {
+    "brand": "VICTOR",
+    "name": "P9200cHP",
+    "url": "https://www.victorsports.my/product/victor-p9200chp-badminton-shoes-p9200chp",
+    "sizes": [
+      {
+        "cm": 25.0,
+        "label": "25.0 CM"
+      },
+      {
+        "cm": 25.5,
+        "label": "25.5 CM"
+      },
+      {
+        "cm": 26.0,
+        "label": "26.0 CM"
+      },
+      {
+        "cm": 26.5,
+        "label": "26.5 CM"
+      },
+      {
+        "cm": 27.0,
+        "label": "27.0 CM"
+      },
+      {
+        "cm": 27.5,
+        "label": "27.5 CM"
+      },
+      {
+        "cm": 28.0,
+        "label": "28.0 CM"
+      },
+      {
+        "cm": 28.5,
+        "label": "28.5 CM"
+      },
+      {
+        "cm": 29.0,
+        "label": "29.0 CM"
+      },
+      {
+        "cm": 29.5,
+        "label": "29.5 CM"
+      }
+    ],
+    "note": "ใช้ตัวเลือกไซส์จาก VICTOR Malaysia · V-Shape 2.5",
+    "chart": null
+  },
+  {
+    "brand": "ASICS",
+    "name": "BLADE FF 2 (1071A117.400)",
+    "url": "https://www.asics.co.in/1071a117-400-blade-ff-2.html",
+    "sizes": [
+      {
+        "cm": 24.5,
+        "label": "US 6 / EU 39"
+      },
+      {
+        "cm": 25.25,
+        "label": "US 7 / EU 40"
+      },
+      {
+        "cm": 26,
+        "label": "US 8 / EU 41"
+      },
+      {
+        "cm": 27,
+        "label": "US 9 / EU 42.5"
+      },
+      {
+        "cm": 28,
+        "label": "US 10 / EU 44"
+      },
+      {
+        "cm": 28.5,
+        "label": "US 11 / EU 45"
+      },
+      {
+        "cm": 29.5,
+        "label": "US 12 / EU 46.5"
+      },
+      {
+        "cm": 30.5,
+        "label": "US 13 / EU 48"
+      },
+      {
+        "cm": 31,
+        "label": "US 14 / EU 49"
+      },
+      {
+        "cm": 32,
+        "label": "US 15 / EU 50.5"
+      }
+    ],
+    "note": "ใช้ Foot Length และไซส์จากหน้ารุ่น ASICS India · บางตลาดมีครึ่งไซส์เพิ่ม",
+    "chart": null
+  },
+  {
+    "brand": "MIZUNO",
+    "name": "WAVE CLAW 3",
+    "url": "https://tha.mizuno.com/products/wave-claw-3-71ga2443-2025ss",
+    "sizes": [
+      {
+        "cm": 22.5,
+        "label": "US 4.5 / EU 36"
+      },
+      {
+        "cm": 23.0,
+        "label": "US 5 / EU 36.5"
+      },
+      {
+        "cm": 23.5,
+        "label": "US 5.5 / EU 37"
+      },
+      {
+        "cm": 24.0,
+        "label": "US 6 / EU 38"
+      },
+      {
+        "cm": 24.5,
+        "label": "US 6.5 / EU 38.5"
+      },
+      {
+        "cm": 25.0,
+        "label": "US 7 / EU 39"
+      },
+      {
+        "cm": 25.5,
+        "label": "US 7.5 / EU 40"
+      },
+      {
+        "cm": 26.0,
+        "label": "US 8 / EU 40.5"
+      },
+      {
+        "cm": 26.5,
+        "label": "US 8.5 / EU 41"
+      },
+      {
+        "cm": 27.0,
+        "label": "US 9 / EU 42"
+      },
+      {
+        "cm": 27.5,
+        "label": "US 9.5 / EU 42.5"
+      },
+      {
+        "cm": 28.0,
+        "label": "US 10 / EU 43"
+      },
+      {
+        "cm": 28.5,
+        "label": "US 10.5 / EU 44"
+      },
+      {
+        "cm": 29.0,
+        "label": "US 11 / EU 44.5"
+      },
+      {
+        "cm": 29.5,
+        "label": "US 11.5 / EU 45"
+      },
+      {
+        "cm": 30.0,
+        "label": "US 12 / EU 46"
+      }
+    ],
+    "note": "ข้อมูล Mizuno Thailand · ตารางทั่วไปบนหน้ารุ่น แนะนำเผื่อ 1–1.5 ซม. จากเท้าจริง โปรดลองยืนยัน (ระบบไม่บวกอัตโนมัติ)",
+    "chart": null
+  },
+  {
+    "brand": "LI-NING",
+    "name": "Ranger Force",
+    "url": "https://id.lining.studio/products/ranger-force",
+    "sizes": [
+      {
+        "cm": 23.0,
+        "label": "US 5.5"
+      },
+      {
+        "cm": 23.5,
+        "label": "US 6"
+      },
+      {
+        "cm": 24.0,
+        "label": "US 6.5"
+      },
+      {
+        "cm": 24.5,
+        "label": "US 7"
+      },
+      {
+        "cm": 25.0,
+        "label": "US 7.5"
+      },
+      {
+        "cm": 25.5,
+        "label": "US 8"
+      },
+      {
+        "cm": 26.0,
+        "label": "US 8.5"
+      },
+      {
+        "cm": 26.5,
+        "label": "US 9"
+      },
+      {
+        "cm": 27.0,
+        "label": "US 9.5"
+      },
+      {
+        "cm": 27.5,
+        "label": "US 10"
+      },
+      {
+        "cm": 28.0,
+        "label": "US 10.5"
+      },
+      {
+        "cm": 28.5,
+        "label": "US 11"
+      },
+      {
+        "cm": 29.5,
+        "label": "US 12"
+      }
+    ],
+    "note": "เทียบ CM → US จาก Li-Ning Indonesia · ไม่แสดง EU เพราะตารางต้นทางบางแถวไม่สอดคล้องกัน",
+    "chart": null
+  }
+]
